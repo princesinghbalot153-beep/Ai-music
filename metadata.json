@@ -1,0 +1,6 @@
+{
+  "name": "Lyria Music Studio",
+  "description": "AI-powered music generator featuring Lyria models for clips and full tracks",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
